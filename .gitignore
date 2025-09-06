@@ -1,0 +1,16 @@
+# Ignore compiled files
+*.class
+*.o
+*.pyc
+
+# Ignore temporary files
+*.log
+*.tmp
+
+# Ignore sensitive information
+.env
+config/credentials.json
+
+# Ignore IDE-specific files
+venv/
+.vscode/
